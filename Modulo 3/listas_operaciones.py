@@ -1,6 +1,7 @@
 my_list = [10, 8, 6, 4, 2]
 list_1 = my_list[:]
 list_2 = my_list[1:]
+list_3 = my_list[3:]
 new_list = my_list[1:3]
 
 print("my_list: ", my_list)
